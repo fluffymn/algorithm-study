@@ -7,6 +7,23 @@
 <br>
 <br>
 
+# **Code**
+
+```java
+public class Main {
+
+  public static void main(String[] args) throws Exception {
+
+    //코드 입력
+
+  }
+
+}
+```
+
+<br>
+<br>
+
 # **🔑Description**
 
 > Description for code.
