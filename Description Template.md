@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:B2E6FF,100:FFB2D6&text=BOJ%20Number&fontColor=FFFFFF&fontAlign=80&fontAlignY=35&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:B2E6FF,100:FFB2D6&text=BOJ%20N&fontColor=FFFFFF&fontAlign=80&fontAlignY=35&fontSize=50)
 
 # **🔒Problem**
 
-> [문제번호 nnnn](https://www.acmicpc.net/problem/nnnn)
+> [BOJ 문제번호 문제이름](https://www.acmicpc.net/problem/N)
 
 <br>
 <br>
@@ -40,6 +40,6 @@ public class Main {
 
 # **🕛Resource**
 
-| Memory | Time   |
-| ------ | ------ |
-| nnnnKB | nnnnms |
+| Memory | Time   | Implementation Time |
+| ------ | ------ | ------------------- |
+| nnnnKB | nnnnms | n Hour n Minutes    |
