@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:B2E6FF,100:FFB2D6&text=BOJ%20N&fontColor=FFFFFF&fontAlign=80&fontAlignY=35&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:FF658D,100:FFCB32&text=BOJ%20N&fontColor=FFFFFF&fontAlign=80&fontAlignY=35&fontSize=50)
 
 # **🔒Problem**
 
@@ -7,7 +7,7 @@
 <br>
 <br>
 
-# **Code**
+# **💻Code**
 
 ```java
 public class Main {
@@ -31,7 +31,7 @@ public class Main {
 <br>
 <br>
 
-# **📑Related Issues**
+# **Related Issues**
 
 > Related Issues
 
